@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranjalPatel14
 - 👀 I’m interested in building website
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, React, ML
 - 💞 📫 
 
 <!---
